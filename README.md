@@ -1,6 +1,8 @@
 # Portfolio-Project-Web-Scraping
 First Web Scraping Project Using Python
 
-Credits : Alex Freberg (AlexTheAnalyst) https://www.youtube.com/watch?v=HiOtQMcI5wg&t=415s
+This is my first portfolio project in terms of web scrapping data using Python. In this project I learned how datasets are collected.
 
 Tools : Jupyter Notebook 6.5.4
+
+Python Libraries : BeautifulSoup
